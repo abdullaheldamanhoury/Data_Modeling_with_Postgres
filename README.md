@@ -1,3 +1,7 @@
+### Technologies
+* Python
+* PostgreSql
+  
 ### Project description
 - A data modeling was built with Postgres with an ETL pipeline using Python by creating star schema which was about of fact and dimensions tables and wrote an ETL pipline to transfer data from files to tables using Python and SQL.
 
